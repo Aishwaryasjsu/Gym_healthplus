@@ -1,0 +1,66 @@
+.title{
+    font-family:'Barlow Semi Condensed', sans-serif;
+    margin-top: 20px;
+    color: #ff6a00;
+}
+.card {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    width: 70%;
+  }
+  
+  .table td {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .table td:first-child {
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+
+  .classes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .btn {
+    display: inline-block;
+    border: none;
+    padding: 12px 30px;
+    margin-top: 5px;
+    background-color: #ff6a00 !important;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 50px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #ee7b29 !important;
+  }
+
+  .filters {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .filters label {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .filters input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }

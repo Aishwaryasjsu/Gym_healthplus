@@ -1,0 +1,45 @@
+.section-classes {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+  }
+  
+  .section-classes .heading-section {
+    font-size: 36px;
+    color: #000;
+    margin-bottom: 40px;
+  }
+  
+  .section-classes .course-1 {
+    position: relative;
+    margin-bottom: 30px;
+  }
+  
+  .section-classes .course-1 .img-link {
+    display: block;
+    overflow: hidden;
+  }
+  
+  .section-classes .course-1 img {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .section-classes .course-1:hover img {
+    transform: scale(1.1);
+  }
+  
+  .section-classes .course-1 .text-center {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+  }
+  
+  .section-classes .course-1 h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .mb-2{
+    color: #ff6a00 !important;
+  }
+
+  

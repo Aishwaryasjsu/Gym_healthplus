@@ -1,0 +1,55 @@
+/* Example CSS for MembershipPlans component */
+.ftco-section.ftco-pricing {
+    background-color: #f9f9f9;
+    padding: 4em 0;
+  }
+  
+  .ftco-section.ftco-pricing .subheading {
+    display: block;
+    font-size: 18px;
+    color: #ff6a00;
+    margin-bottom: 20px;
+  }
+
+/* .membership-plans-section {
+    background-color: #f9f9f9;
+    padding: 80px 0;
+  }
+   */
+  .membership-card {
+    width: 360px !important;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+    transition: all 0.3s ease;
+    margin-bottom: 20px;
+  }
+
+  .membership-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .membership-card-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333333;
+    margin-bottom: 15px;
+  }
+  
+  .membership-card-subtitle {
+    font-size: 14px;
+    color: #666666;
+    margin-bottom: 20px;
+  }
+  
+  .membership-card-text {
+    color: #ff6a00;
+    margin-bottom: 30px;
+  }
+ 
+  
+  
